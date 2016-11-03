@@ -1,0 +1,49 @@
+h1{
+  color:#2a2a2a;
+  font-size: 3em;
+  text-align: left;
+}
+nav{
+  background-color: #2a2a2a;
+  color: white;
+  font-size: 1em;
+}
+nav ul li {
+  padding: 15px 25px;
+  list-style: none;
+  display: inline-block;
+}
+div{
+  background-color: #2a2a2a;
+  color: white;
+  font-size: 1em;
+}
+div ul li{
+  padding: 15px 25px;
+  list-style: none;
+  display: inline-block;
+}
+.container{
+  display: flex;
+  text-align: center;
+}
+.box1{
+  background-color: #5b965b;
+  color: white;
+  margin: 3px;
+}
+.box2{
+  background-color: #2a2a2a;
+  color: white;
+  margin: 3px;
+}
+.info{
+  float: right;
+  border: 1px solid white;
+  margin: 15px;
+  padding: 10px;
+}
+.hed{
+  color: white;
+  font-size: 2em;
+}
